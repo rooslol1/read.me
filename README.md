@@ -1,565 +1,385 @@
-# read.me
+#read.me
+<p>Wil je iets eten?</p>
+<p>&nbsp; Ja?&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nee?</p>
+<p>Wil je dan wat drinken? Nee =stop</p>
+<p>Wil je met of zonder prik</p>
+<p>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Zoet of zout&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;Koek of snoep?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Chips of patat&nbsp;&nbsp;</p>
+<p>&nbsp; Noten of zonder noten&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; aardappel of zoete aardappel</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; hard of zacht?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Saus of zonder saus &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
 <table>
 <tbody>
 <tr>
-<td width="63">
-<table width="100%">
-<tbody>
-<tr>
-<td>
-<p>zout</p>
+<td width="81">
+<p><strong>Zoet </strong></p>
+</td>
+<td colspan="2" width="82">
+<p><strong>&nbsp;</strong></p>
+</td>
+<td colspan="2" width="80">
+<p><strong>&nbsp;</strong></p>
+</td>
+<td colspan="2" width="81">
+<p><strong>&nbsp;</strong></p>
+</td>
+<td colspan="3" width="112">
+<p><strong>&nbsp;</strong></p>
 </td>
 </tr>
-</tbody>
-</table>
-&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
-<td width="127">
-<table width="100%">
-<tbody>
-<tr>
-<td>
-<p>Chips of patat</p>
+<td width="81">
+<p><strong>Ja</strong></p>
 </td>
-</tr>
-</tbody>
-</table>
-&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td width="64">
-<table width="100%">
-<tbody>
-<tr>
-<td>
-<p>snoep</p>
-</td>
-</tr>
-</tbody>
-</table>
-&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td width="55">
-<table width="100%">
-<tbody>
-<tr>
-<td>
+<td colspan="2" width="82">
 <p>koek</p>
 </td>
-</tr>
-</tbody>
-</table>
-&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td width="122">
-<table width="100%">
-<tbody>
-<tr>
-<td>
-<p>Zoet of zout</p>
+<td colspan="2" width="80">
+<p>noten</p>
+</td>
+<td colspan="2" width="81">
+<p>hard</p>
+</td>
+<td colspan="3" width="112">
+<p>macadamia koekje</p>
 </td>
 </tr>
-</tbody>
-</table>
-&nbsp;</td>
+<tr>
+<td width="81">
+<p><strong>&nbsp;&nbsp;&nbsp; ja</strong></p>
+</td>
+<td colspan="2" width="82">
+<p>koek</p>
+</td>
+<td colspan="2" width="80">
+<p>noten</p>
+</td>
+<td colspan="2" width="81">
+<p>&nbsp;zacht</p>
+</td>
+<td colspan="3" width="112">
+<p>Gevuld pindakaas koekje</p>
+</td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
-<td width="55">
-<table width="100%">
-<tbody>
+<td width="81">
+<p><strong>Ja</strong></p>
+</td>
+<td colspan="2" width="82">
+<p>koek</p>
+</td>
+<td colspan="2" width="80">
+<p>Zonder noten</p>
+</td>
+<td colspan="2" width="81">
+<p>Hard</p>
+</td>
+<td colspan="3" width="112">
+<p>Zand koekje</p>
+</td>
+</tr>
 <tr>
-<td>
+<td width="81">
+<p><strong>ja</strong></p>
+</td>
+<td colspan="2" width="82">
+<p>Koek</p>
+</td>
+<td colspan="2" width="80">
+<p>Zonder noten</p>
+</td>
+<td colspan="2" width="81">
+<p>Zacht</p>
+</td>
+<td colspan="3" width="112">
+<p>mergpijpje</p>
+</td>
+</tr>
+<tr>
+<td width="81">
+<p><strong>Ja</strong></p>
+</td>
+<td colspan="2" width="82">
+<p>Snoep</p>
+</td>
+<td colspan="2" width="80">
+<p>noten</p>
+</td>
+<td colspan="2" width="81">
+<p>Hard</p>
+</td>
+<td colspan="3" width="112">
+<p>M&amp;m met noten</p>
+</td>
+</tr>
+<tr>
+<td width="81">
+<p><strong>ja</strong></p>
+</td>
+<td colspan="2" width="82">
+<p>Snoep</p>
+</td>
+<td colspan="2" width="80">
+<p>noten</p>
+</td>
+<td colspan="2" width="81">
+<p>Zacht</p>
+</td>
+<td colspan="3" width="112">
+<p>peanut butter cups</p>
+</td>
+</tr>
+<tr>
+<td width="81">
+<p><strong>Ja</strong></p>
+</td>
+<td colspan="2" width="82">
+<p>Snoep</p>
+</td>
+<td colspan="2" width="80">
+<p>Zonder noten</p>
+</td>
+<td colspan="2" width="81">
+<p>Hard</p>
+</td>
+<td colspan="3" width="112">
+<p>Roomboter wafel</p>
+</td>
+</tr>
+<tr>
+<td width="81">
+<p><strong>Ja</strong></p>
+</td>
+<td colspan="2" width="82">
+<p>Snoep</p>
+</td>
+<td colspan="2" width="80">
+<p>Zonder</p>
+<p>noten</p>
+</td>
+<td colspan="2" width="81">
+<p>Zacht</p>
+</td>
+<td colspan="3" width="112">
+<p>Gumy bear</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="87">
+<p>zout</p>
+</td>
+<td colspan="2" width="87">
+<p>&nbsp;</p>
+</td>
+<td colspan="2" width="87">
+<p>&nbsp;</p>
+</td>
+<td colspan="2" width="87">
+<p>&nbsp;</p>
+</td>
+<td width="87">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="87">
 <p>ja</p>
 </td>
-</tr>
-</tbody>
-</table>
-&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td width="115">
-<table width="100%">
-<tbody>
-<tr>
-<td>
-<p>Snoep of koek</p>
-</td>
-</tr>
-</tbody>
-</table>
-&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td width="57">
-<table width="100%">
-<tbody>
-<tr>
-<td>
-<p>&nbsp;zoet</p>
-</td>
-</tr>
-</tbody>
-</table>
-&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td width="160">
-<table width="100%">
-<tbody>
-<tr>
-<td>
-<p>Wil je iets eten</p>
-</td>
-</tr>
-</tbody>
-</table>
-&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<table>
-<tbody>
-<tr>
-<td width="173">
-<table width="100%">
-<tbody>
-<tr>
-<td>
-<p>Hard of zacht gebakken</p>
-</td>
-</tr>
-</tbody>
-</table>
-&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td width="55">
-<table width="100%">
-<tbody>
-<tr>
-<td>
-<p>patat</p>
-</td>
-</tr>
-</tbody>
-</table>
-&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td width="55">
-<table width="100%">
-<tbody>
-<tr>
-<td>
-<p>hard</p>
-</td>
-</tr>
-</tbody>
-</table>
-&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td width="55">
-<table width="100%">
-<tbody>
-<tr>
-<td>
-<p>zacht</p>
-</td>
-</tr>
-</tbody>
-</table>
-&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td width="107">
-<table width="100%">
-<tbody>
-<tr>
-<td>
-<p>Hard of zacht</p>
-</td>
-</tr>
-</tbody>
-</table>
-&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td width="55">
-<table width="100%">
-<tbody>
-<tr>
-<td>
-<p>zacht</p>
-</td>
-</tr>
-</tbody>
-</table>
-&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td width="55">
-<table width="100%">
-<tbody>
-<tr>
-<td>
-<p>hard</p>
-</td>
-</tr>
-</tbody>
-</table>
-&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td width="107">
-<table width="100%">
-<tbody>
-<tr>
-<td>
-<p>Hard of zacht</p>
-</td>
-</tr>
-</tbody>
-</table>
-&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td width="55">
-<table width="100%">
-<tbody>
-<tr>
-<td>
+<td colspan="2" width="87">
 <p>chips</p>
 </td>
-</tr>
-</tbody>
-</table>
-&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td width="143">
-<table width="100%">
-<tbody>
-<tr>
-<td>
-<p>Aardappel of mais</p>
+<td colspan="2" width="87">
+<p>aardappel</p>
+</td>
+<td colspan="2" width="87">
+<p>saus</p>
+</td>
+<td width="87">
+<p>Naturel chips met saus</p>
 </td>
 </tr>
-</tbody>
-</table>
-&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;</p>
-<table>
-<tbody>
 <tr>
-<td width="170">
-<table width="100%">
-<tbody>
-<tr>
-<td>
-<p>Zachte patat</p>
+<td colspan="3" width="87">
+<p>ja</p>
 </td>
-</tr>
-</tbody>
-</table>
-&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td width="154">
-<table width="100%">
-<tbody>
-<tr>
-<td>
-<p>Harde&nbsp; patat</p>
+<td colspan="2" width="87">
+<p>chips</p>
 </td>
-</tr>
-</tbody>
-</table>
-&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td width="55">
-<table width="100%">
-<tbody>
-<tr>
-<td>
-<p>hard</p>
+<td colspan="2" width="87">
+<p>aardappel</p>
 </td>
-</tr>
-</tbody>
-</table>
-&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td width="55">
-<table width="100%">
-<tbody>
-<tr>
-<td>
-<p>zacht</p>
+<td colspan="2" width="87">
+<p>Geen saus</p>
 </td>
-</tr>
-</tbody>
-</table>
-&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td width="85">
-<table width="100%">
-<tbody>
-<tr>
-<td>
-<p>speculaas</p>
-</td>
-</tr>
-</tbody>
-</table>
-&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td width="68">
-<table width="100%">
-<tbody>
-<tr>
-<td>
-<p>wafel</p>
-</td>
-</tr>
-</tbody>
-</table>
-&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td width="102">
-<table width="100%">
-<tbody>
-<tr>
-<td>
-<p>Gumy beer</p>
-</td>
-</tr>
-</tbody>
-</table>
-&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td width="111">
-<table width="100%">
-<tbody>
-<tr>
-<td>
-<p>Boterwafeltje</p>
-</td>
-</tr>
-</tbody>
-</table>
-&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td width="105">
-<table width="100%">
-<tbody>
-<tr>
-<td>
+<td width="87">
 <p>Naturel chips</p>
 </td>
 </tr>
-</tbody>
-</table>
-&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
-<td width="82">
-<table width="100%">
-<tbody>
-<tr>
-<td>
-<p>Doritos</p>
+<td colspan="3" width="87">
+<p>ja</p>
+</td>
+<td colspan="2" width="87">
+<p>chips</p>
+</td>
+<td colspan="2" width="87">
+<p>Zoete aardappel</p>
+</td>
+<td colspan="2" width="87">
+<p>saus</p>
+</td>
+<td width="87">
+<p>Zoete aardappel chips met saus</p>
 </td>
 </tr>
-</tbody>
-</table>
-&nbsp;</td>
+<tr>
+<td colspan="3" width="87">
+<p>ja</p>
+</td>
+<td colspan="2" width="87">
+<p>chips</p>
+</td>
+<td colspan="2" width="87">
+<p>Zoete aardappel</p>
+</td>
+<td colspan="2" width="87">
+<p>Geen saus</p>
+</td>
+<td width="87">
+<p>Zoete aardappel chips</p>
+</td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
-<td width="102">
-<table width="100%">
-<tbody>
+<td colspan="3" width="87">
+<p>ja</p>
+</td>
+<td colspan="2" width="87">
+<p>Patat</p>
+</td>
+<td colspan="2" width="87">
+<p>aardappel</p>
+</td>
+<td colspan="2" width="87">
+<p>saus</p>
+</td>
+<td width="87">
+<p>Patat me mayo</p>
+</td>
+</tr>
 <tr>
-<td>
+<td colspan="3" width="87">
+<p>ja</p>
+</td>
+<td colspan="2" width="87">
+<p>patat</p>
+</td>
+<td colspan="2" width="87">
+<p>aardappel</p>
+</td>
+<td colspan="2" width="87">
+<p>Geen saus</p>
+</td>
+<td width="87">
+<p>patat</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="87">
+<p>ja</p>
+</td>
+<td colspan="2" width="87">
+<p>patat</p>
+</td>
+<td colspan="2" width="87">
+<p>Zoete</p>
 <p>Aardappel</p>
 </td>
-</tr>
-</tbody>
-</table>
-&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td width="55">
-<table width="100%">
-<tbody>
-<tr>
-<td>
-<p>mais</p>
+<td colspan="2" width="87">
+<p>saus</p>
+</td>
+<td width="87">
+<p>Zoete aardappel patat met kerrie saus</p>
 </td>
 </tr>
-</tbody>
-</table>
-&nbsp;</td>
+<tr>
+<td colspan="3" width="87">
+<p>ja</p>
+</td>
+<td colspan="2" width="87">
+<p>patat</p>
+</td>
+<td colspan="2" width="87">
+<p>Zoete</p>
+<p>aardappel</p>
+</td>
+<td colspan="2" width="87">
+<p>Geen saus</p>
+</td>
+<td width="87">
+<p>Zoete aardappel patat</p>
+</td>
 </tr>
-</tbody>
-</table>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<table>
-<tbody>
 <tr>
 <td width="0">&nbsp;</td>
-<td width="54">&nbsp;</td>
-<td width="207">&nbsp;</td>
-<td width="440">&nbsp;</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td colspan="2">&nbsp;</td>
-<td rowspan="3">&nbsp;</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td width="54">
-<table width="100%">
-<tbody>
-<tr>
-<td>
-<p>nee</p>
-</td>
+<td width="81">&nbsp;</td>
+<td width="6">&nbsp;</td>
+<td width="76">&nbsp;</td>
+<td width="11">&nbsp;</td>
+<td width="69">&nbsp;</td>
+<td width="18">&nbsp;</td>
+<td width="63">&nbsp;</td>
+<td width="24">&nbsp;</td>
+<td width="87">&nbsp;</td>
+<td width="1">&nbsp;</td>
 </tr>
 </tbody>
 </table>
-&nbsp;</td>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table>
+<tbody>
+<tr>
+<td width="130">
+<p><strong>Wil je iets drinken?</strong></p>
+</td>
+<td width="119">
+<p><strong>&nbsp;</strong></p>
+</td>
+<td width="119">
+<p><strong>&nbsp;</strong></p>
+</td>
+<td width="119">
+<p><strong>&nbsp;</strong></p>
+</td>
 </tr>
 <tr>
-<td>&nbsp;</td>
+<td width="130">
+<p><strong>Ja</strong></p>
+</td>
+<td width="119">
+<p>Drinken</p>
+</td>
+<td width="119">
+<p>prik</p>
+</td>
+<td width="119">
+<p>cola</p>
+</td>
+</tr>
+<tr>
+<td width="130">
+<p><strong>Ja</strong></p>
+</td>
+<td width="119">
+<p>Drinken</p>
+</td>
+<td width="119">
+<p>Zonder prik</p>
+</td>
+<td width="119">
+<p>limonade</p>
+</td>
 </tr>
 </tbody>
 </table>
